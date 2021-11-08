@@ -1,5 +1,5 @@
 {
-    "name": "richard87/twig-sass",
+    "name": "kvinav/twig-sass",
     "description": "A Twig extension/function to render inline SASS files for SEO purposes or to render CSS files with easy customizability",
     "type": "library",
     "license": "MIT",
@@ -7,8 +7,8 @@
     "keywords": ["sass","twig"],
     "authors": [
         {
-            "name": "Richard Hagen",
-            "email": "hi@richardhagen.no"
+            "name": "Kévin Avignon",
+            "email": "kavignonpro@gmail.com"
         }
     ],
     "require": {
